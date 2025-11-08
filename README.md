@@ -1,23 +1,16 @@
-## Hi there 👋
+## Hey there! 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Parux-games&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=200)](https://git.io/streak-stats)
+### Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paryx-games&layout=compact&theme=radical&card_width=500&hide_title=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paryx-games&show_icons=true&theme=radical&card_width=500&hide_title=false)
 
-<!--
-**Paryx-games/Paryx-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Parux-games&theme=radical&hide_border=false&card_width=500&card_height=180)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **About Me**
+🎮 Roblox Developer | 💻 Luau, Python & JS/TS Enthusiast  
 
-- 💬 Ask me about Roblox developing
-- 📫 How to reach me: https://x.com/paryx_games or @paryx.games on discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been scripting in luau for **5 years**! Python for 3 and javascript/typescript for 2 years
+- 💬 Ask me about **Roblox development & game scripting**  
+- 📫 Reach me: [X/Twitter](https://x.com/paryx_games) | Discord: `@paryx.games`  
+- ⚡ Fun fact: Scripting in **Luau for 5 years**, Python for 3, JS/TS for 2!  
