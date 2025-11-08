@@ -1,8 +1,8 @@
 ## Hey there! 👋
 
 ### Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paryx-games&layout=compact&theme=radical&card_width=500&hide_title=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paryx-games&show_icons=true&theme=radical&card_width=500&hide_title=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paryx-games&layout=compact&theme=dark&card_width=500&hide_title=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paryx-games&show_icons=true&theme=dark&card_width=500&hide_title=false)
 
 ---
 
