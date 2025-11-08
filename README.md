@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about Roblox developing
+- 📫 How to reach me: https://x.com/paryx_games or @paryx.games on discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've been scripting in luau for **5 years**! Python for 3 and javascript/typescript for 2 years
