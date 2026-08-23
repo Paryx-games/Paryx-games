@@ -1,14 +1,19 @@
 ## Hey there! 👋
 
-### Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paryx-games&layout=compact&theme=dark&card_width=500&hide_title=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paryx-games&show_icons=true&theme=dark&card_width=500&hide_title=false)
-
----
+I'm **paryx**, a small indie developer who loves coding as a hobby and making new projects.
 
 ### **About Me**
-🎮 Roblox Developer | 💻 Luau, Python & JS/TS Enthusiast  
+I can code in several languages! These are below.
 
-- 💬 Ask me about **Roblox development & game scripting**  
+[![My Coding Languages](https://skillicons.dev/icons?i=python,js,nodejs,ts,html,css,cpp,rust,lua,powershell)](https://skillicons.dev)
+
+###### For Lua, I'm more experienced with LuaU (Roblox-specific), but most of the skills carry over thanks to the similar underlying architecture.
+###### I've also been shifting toward Rust over C++, since it's easier to work with and better suited to what I build - Cargo especially has been a huge help.
+
+I also have skills in a few other tools, listed below.
+
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,discordjs,docker,electron,git,github,mongodb,pnpm,robloxstudio,vscode)](https://skillicons.dev)
+
+### Contact me
+
 - 📫 Reach me: [X/Twitter](https://x.com/paryx_games) | Discord: `@paryx.games`  
-- ⚡ Fun fact: Scripting in **Luau for 5 years**, Python for 3, JS/TS for 2!  
