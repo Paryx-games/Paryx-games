@@ -1,8 +1,10 @@
 <!-- IF YOU ARE READING THIS: PLEASE DO NOT OPEN A PR OR MESSAGE ME ASKING ME TO UPDATE THIS. I WILL UPDATE THIS REPOSITORY WHEN I CHOOSE TO. YOU ARE WELCOME TO FORK IT AND MAKE YOUR OWN CHANGES TO PUT ON YOUR OWN PROFILE, JUST MAKE SURE TO CHANGE ALL THE LINKS. -->
 
-## Hey there! 👋
+## Hi there! 😛
 
 I'm **paryx**, a small indie developer who loves coding as a hobby and making new projects. I'm also currently learning more about software engineering beyond just coding, including things like reverse engineering, networking, and how software works under the hood.
+
+I make my projects open-source by default because I feel like sharing my knowledge with the internet is far better than keeping it proprietary. It also helps build reputation with apps I build, which helps me not have to worry about app safety as much.
 
 [![paryx on WhatTime.to](https://whattime.link/u/paryx?style=flat&size=compact&show=name,status,time&theme=dark&accent=7fb2e1&format=12h)](https://whattime.to/talk/paryx) [![Current time in London](https://whattime.link/tz/europe/london?style=flat&size=compact&show=name,time&theme=dark&accent=7fb2e1&format=12h)](https://whattime.to)
 
@@ -18,6 +20,8 @@ I'm **paryx**, a small indie developer who loves coding as a hobby and making ne
 I can code in several languages! These are below. I have ranked these based on expertise, from _(in my opinion)_ best to still improving.
 
 [![My Coding Languages](https://skillicons.dev/icons?i=lua,python,js,ts,rust,cpp)](https://skillicons.dev)
+
+If you want to know more about my coding skills, I have made an expanded section for the skills in specific languages
 
 <details>
 
@@ -45,11 +49,11 @@ Then I discovered <img src="https://skillicons.dev/icons?i=rust" alt="Rust" heig
 
 I don't remember much about when I started learning luau, mostly from YouTube tutorials and Roblox documentation. I haven't used lua much, however, I'm very strong in both LuaU and Lua. I made multiple games using it, however most were unpublished because I am a neat freak and require everything to be perfect.
 
+For Lua, I'm more experienced with LuaU (Roblox-specific), but most of the skills carry over since LuaU is just a fork of lua with features strapped on
+
 _I may add more details for languages I haven't listed here, for now just assume the same as Lua_
 
 </details>
-
-For Lua, I'm more experienced with LuaU (Roblox-specific), but most of the skills carry over since LuaU is just a fork of lua with features strapped on
 
 I also have skills in a few other tools, listed below.
 
