@@ -2,6 +2,8 @@
 
 ## Hi there! 😛
 
+### Please visit [my website](https://paryx.uk/) instead of this page. This is just a summary of what the website says
+
 I'm **paryx**, a small indie developer who loves coding as a hobby and making new projects. I'm also currently learning more about software engineering beyond just coding, including things like reverse engineering, networking, and how software works under the hood.
 
 I make my projects open-source by default because I feel like sharing my knowledge with the internet is far better than keeping it proprietary. It also helps build reputation with apps I build, which helps me not have to worry about app safety as much.
@@ -44,12 +46,33 @@ Then I discovered <img src="https://skillicons.dev/icons?i=rust" alt="Rust" heig
 
   <br>
   
-  Lua & LuaU
+  Lua & Luau
 </h3>
 
-I don't remember much about when I started learning luau, mostly from YouTube tutorials and Roblox documentation. I haven't used lua much, however, I'm very strong in both LuaU and Lua. I made multiple games using it, however most were unpublished because I am a neat freak and require everything to be perfect.
+I don't remember much about when I started learning luau, mostly from YouTube tutorials and Roblox documentation. I haven't used lua much, however, I'm very strong in both Luau and Lua. I made multiple games using it, however most were unpublished because I am a neat freak and require everything to be perfect.
 
-For Lua, I'm more experienced with LuaU (Roblox-specific), but most of the skills carry over since LuaU is just a fork of lua with features strapped on
+For Lua, I'm more experienced with Luau (Roblox-specific), but most of the skills carry over since Luau is a fork of Lua with extra features like the typing system, compound assignment operators like `+=`, `-=` and **string interpolation**. I love string interpolation so much, it is so nice for keeping code clean. An example is below:
+
+```luau
+local world = "World"
+print(`Hello {World!}`)
+```
+Output: `Hello World!`
+
+Otherwise, with standard lua, you would have to do this, which sometimes is better but string interpolation feels nicer.
+
+```lua
+local player = "Alex"
+local score = 50
+
+-- Option 1: Concatenation (using dots)
+print("Player " .. player .. " has a score of " .. score)
+
+-- Option 2: Formatting (similar to C's printf)
+print(string.format("Player %s has a score of %d", player, score))
+```
+
+Obviously, that is personal preference, but I just feel like it is nicer. Moving onto javascript now!
 
 _I may add more details for languages I haven't listed here, for now just assume the same as Lua_
 
